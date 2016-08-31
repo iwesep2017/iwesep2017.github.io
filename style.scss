@@ -151,11 +151,11 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  margin-bottom: 10px;
 }
 
 .masthead {
-  padding: 20px 0;
+  padding: 10px 0;
   border-bottom: 1px solid $lightGray;
 
   @include mobile {
@@ -281,6 +281,12 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
+}
+
+.photo-credit {
+  font-size: 0.5em;
+  text-align: left;
+  line-height: 0.7;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
