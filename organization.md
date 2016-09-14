@@ -73,4 +73,8 @@ TBA
 
 ## Advisory Committees
 
-TBA
+Katsuro Inoue (Osaka University, Japan)
+
+Shinji Kusumoto (Osaka University, Japan)
+
+Kenichi Matsumoto (Nara Institute of Science and Technology, Japan)
