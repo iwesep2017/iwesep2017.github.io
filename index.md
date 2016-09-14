@@ -4,9 +4,9 @@ layout: default
 
 # Welcome to the official website of IWESEP 2017
 
-## The 8th IEEE International Workshop on Empirical Software Engineering in Practice (IWESEP)
+## The 8th International Workshop on Empirical Software Engineering in Practice (IWESEP)
 
-The objective of the **8th IEEE International Workshop on Empirical Software Engineering in Practice (IWESEP)** is to foster the development of the area by providing a forum where researchers and practitioners can report on and discuss new research results and applications in the area of empirical software engineering. The workshop encourages the exchange of ideas within the international community so as to be able to understand, from an empirical viewpoint, the strengths and weaknesses of technology in use and new technologies, with the expectation of furthering the more generic field of software engineering.
+The objective of the **8th International Workshop on Empirical Software Engineering in Practice (IWESEP)** is to foster the development of the area by providing a forum where researchers and practitioners can report on and discuss new research results and applications in the area of empirical software engineering. The workshop encourages the exchange of ideas within the international community so as to be able to understand, from an empirical viewpoint, the strengths and weaknesses of technology in use and new technologies, with the expectation of furthering the more generic field of software engineering.
 
 The workshop focuses on the processes, design and structure of empirical studies as well as the results of specific studies. These studies may be on original or replicated studies, varying from controlled experiments to field studies, from quantitative to qualitative.
 
@@ -16,7 +16,6 @@ The workshop focuses on the processes, design and structure of empirical studies
 
 The workshop welcomes both original and replicated studies, varying from controlled experiments to field studies, from quantitative to qualitative. 
 We solicit the following two types of submissions: **full research papers (max 6 pages)** for oral presentations and **abstracts (max 700 words)** for poster presentations. Please check the website for more information.
-Accepted research papers will appear in the **IEEE Computer Society Digital Library (CSDL)**. 
 
 
 ## General call
