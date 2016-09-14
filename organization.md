@@ -7,61 +7,61 @@ permalink: /organization/
 
 ## General Chair
 
-Eunjong Choi (Nara Institute of Science and Technology, Japan)
+[Eunjong Choi](https://sites.google.com/site/ejchoi710) (Nara Institute of Science and Technology, Japan)
 
 ## Program Co-Chairs
 
-Masao Ohira (Wakayama University, Japan)
+[Masao Ohira](https://masao-ohira.org) (Wakayama University, Japan)
 
-Jaechang Nam (University of Waterloo, Canada)
+[Jaechang Nam](http://lifove.github.io) (University of Waterloo, Canada)
 
 ## Publication Chair
 
-Sousuke Amasaki (Okayama University, Japan)
+[Sousuke Amasaki](https://www.researchgate.net/profile/Sousuke_Amasaki) (Okayama University, Japan)
 
 ## Registration Co-Chairs
 
 [Patanamon Thongtanunam](http://patanamon.com) (Nara Institute of Science and Technology, Japan)
 
-Xin Yang (Nara Institute of Science and Technology, Japan)
+[Xin Yang](http://www.nemocap.org) (Nara Institute of Science and Technology, Japan)
 
 ## Local Arrangement Co-Chairs
 
-Hideshi Sakaguchi(Nara Institute of Science and Technology, Japan)
+[Hideshi Sakaguchi](http://se-naist.jp/pman3/pman3.cgi?A=Hideshi%20Sakaguchi) (Nara Institute of Science and Technology, Japan)
 
-Kiyoshi Honda (Waseda University, Japan)
+[Kiyoshi Honda](https://waseda.pure.elsevier.com/en/persons/kiyoshi-honda) (Waseda University, Japan)
 
-Makihara Erina (Nara Institute of Science and Technology, Japan)
+[Makihara Erina](http://mkhr.wpblog.jp) (Nara Institute of Science and Technology, Japan)
 
 ## Finance Co-Chairs
 
-Akinori Ihara (Nara Institute of Science and Technology, Japan)
+[Akinori Ihara](http://akinori-ihara.jpn.org) (Nara Institute of Science and Technology, Japan)
 
-Norihito Kitagawa (Nara Institute of Science and Technology, Japan)
+[Norihito Kitagawa](http://dblp.dagstuhl.de/pers/hd/k/Kitagawa:Norihito) (Nara Institute of Science and Technology, Japan)
 
 ## Web Co-Chairs
 
 [Chakkrit Tantithamthavorn](http://chakkrit.com) (Nara Institute of Science and Technology, Japan)
 
-Natthawute Sae-Lim (Tokyo Institute of Technology, Japan)
+[Natthawute Sae-Lim](http://natthawute.github.io) (Tokyo Institute of Technology, Japan)
 
 ## Social Networking Chair
 
-Kazuhiro Yamashita (Kyushu University, Japan)
+[Kazuhiro Yamashita](http://posl.ait.kyushu-u.ac.jp/~yamashita) (Kyushu University, Japan)
 
 ## Steering Committee
 
-Akinori Ihara (Nara Institute of Science and Technology, Japan)
+[Akinori Ihara](http://akinori-ihara.jpn.org) (Nara Institute of Science and Technology, Japan)
 
-Hideaki Hata (Nara Institute of Science and Technology, Japan)
+[Hideaki Hata](http://isw3.naist.jp/~hata/) (Nara Institute of Science and Technology, Japan)
 
-Masateru Tsunoda (Kinki University, Japan)
+[Masateru Tsunoda](http://www.info.kindai.ac.jp/~tsunoda/index-e.html) (Kinki University, Japan)
 
-Raula Gaikovina Kula (Osaka University, Japan)
+[Raula Gaikovina Kula](http://sel.ist.osaka-u.ac.jp/people/raula-k) (Osaka University, Japan)
 
-Shinsuke Matsumoto (Osaka University, Japan)
+[Shinsuke Matsumoto](http://www27.cs.kobe-u.ac.jp/~shinsuke-m/index_en.html) (Osaka University, Japan)
 
-Yasutaka Kamei (Kyushu University, Japan)
+[Yasutaka Kamei](http://posl.ait.kyushu-u.ac.jp/~kamei) (Kyushu University, Japan)
 
 ## Student Staff Co-Chairs
 
@@ -73,8 +73,9 @@ TBA
 
 ## Advisory Committees
 
-Katsuro Inoue (Osaka University, Japan)
+[Katsuro Inoue](http://sel.ist.osaka-u.ac.jp/people/inoue) (Osaka University, Japan)
 
-Shinji Kusumoto (Osaka University, Japan)
+[Shinji Kusumoto](http://sdl.ist.osaka-u.ac.jp/~kusumoto/index-e.htm) (Osaka University, Japan)
 
-Kenichi Matsumoto (Nara Institute of Science and Technology, Japan)
+[Kenichi Matsumoto](http://isw3.naist.jp/~matumoto/) (Nara Institute of Science and Technology, Japan)
+
