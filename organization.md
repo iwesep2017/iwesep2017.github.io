@@ -63,9 +63,9 @@ permalink: /organization/
 
 [Yasutaka Kamei](http://posl.ait.kyushu-u.ac.jp/~kamei) (Kyushu University, Japan)
 
-## Student Staff Co-Chairs
+## Student Staff Chair
 
-TBA
+[Yuhao Wu](http://sel.ist.osaka-u.ac.jp/people/wuyuhao) (Osaka University, Japan)
 
 ## Publicity Co-Chairs
 
@@ -79,3 +79,48 @@ TBA
 
 [Kenichi Matsumoto](http://isw3.naist.jp/~matumoto/) (Nara Institute of Science and Technology, Japan)
 
+## Program Committees
+
+[Aiko Yamashita](https://www.hioa.no/eng/employee/aikyam) (Oslo and Akershus University, Norway)
+
+[Akinori Ihara](http://akinori-ihara.jpn.org) (Nara Institute of Science and Technology, Japan)
+
+[Andrea Mocci](http://www.inf.usi.ch/postdoc/mocci/) (University of Lugano, Italy)
+
+[Bogdan Dit](http://cs.boisestate.edu/~bdit/) (Boise State University, USA)
+
+[Bram Adams](http://mcis.polymtl.ca/bram.html) (MCIS, Ecole Polytechnique de Montreal, Canada)
+
+[Cor-Paul Bezemer](http://sailhome.cs.queensu.ca/~corpaul/) (Queen's University, Canada)
+
+[Daniel German](http://turingmachine.org/) (University of Victoria, Canada)
+
+[David Lo](http://www.mysmu.edu/faculty/davidlo/) (Singapore Management University, Singapore)
+
+[Foutse Khomh](http://www.khomh.net/) (Ecole Polytechnique de Montreal, Canada)
+
+[Olga Baysal](http://olgabaysal.com/) (Carleton University, Canada)
+
+[Osamu Mizuno](http://se.is.kit.ac.jp/~o-mizuno/) (Kyoto Institute of Technology, Japan)
+
+[Patanamon Thongtanunam](http://patanamon.com) (Nara Institute of Science and Technology, Japan)
+
+[Shane McIntosh]() (McGill University, Canada)
+
+[Shin Hong](http://hongshin.github.io/) (Handong Univrsity, South Korea)
+
+[Shinpei Hayashi](http://www.se.cs.titech.ac.jp/~hayashi/) (Tokyo Institute of Technology, Japan)
+
+[Steffen Herbold](https://www.swe.informatik.uni-goettingen.de/staff/steffen-herbold) (University of Göttingen, Germany)
+
+[Thomas Zimmermann](https://www.microsoft.com/en-us/research/people/tzimmer/) (Microsoft Research, USA)
+
+[Weiyi (Ian) Shang](http://users.encs.concordia.ca/~shang/) (Concordia University, Canada)
+
+[Yasutaka Kamei](http://posl.ait.kyushu-u.ac.jp/~kamei/) (Kyushu University, Japan)
+
+[Yepang Liu](http://www.cse.ust.hk/~andrewust/) (Hong Kong University of Science and Technology, Hong Kong)
+
+[Yoshiki Higo](http://sdl.ist.osaka-u.ac.jp/~higo/wordpress/) (Osaka University, Japan)
+
+[Zhen Ming Jiang](http://www.cse.yorku.ca/~zmjiang/) (York University, Canada)
