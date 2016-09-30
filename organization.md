@@ -85,7 +85,7 @@ TBA
 
 [Akinori Ihara](http://akinori-ihara.jpn.org) (Nara Institute of Science and Technology, Japan)
 
-[Andrea Mocci](http://www.inf.usi.ch/postdoc/mocci/) (University of Lugano, Italy)
+[Andrea Mocci](http://www.inf.usi.ch/postdoc/mocci/) (University of Lugano, Switzerland)
 
 [Bogdan Dit](http://cs.boisestate.edu/~bdit/) (Boise State University, USA)
 
