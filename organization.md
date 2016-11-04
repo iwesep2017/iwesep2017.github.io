@@ -52,8 +52,11 @@ permalink: /organization/
 ## Publicity Co-Chairs
 
 [Daniel Alencar da Costa](https://danielcalencar.github.io/) (Federal University of Rio Grande do Norte, Brazil)
+
 [Eun-Hye Choi](https://staff.aist.go.jp/e.choi/) (National Institute of Advanced Industrial Science and Technology, Japan)
+
 [Andrea Mocci](http://www.inf.usi.ch/postdoc/mocci/) (University of Lugano, Switzerland) 
+
 [Shinpei Hayashi](http://www.se.cs.titech.ac.jp/~hayashi/) (Tokyo Institute of Technology, Japan)
 
 ## Steering Committee
