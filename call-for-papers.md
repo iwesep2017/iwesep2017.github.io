@@ -48,12 +48,6 @@ Topics of interest include, but are not limited to:
 
 ----
 
-# Submissions
-
-All submissions must use IEEE templates and should be submitted through [EasyChair](http://www.easychair.org/conferences/?conf=iwesep2017).
-
-----
-
 # Important Dates
 
 ## Full research paper 
