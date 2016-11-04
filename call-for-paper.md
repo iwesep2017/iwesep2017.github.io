@@ -13,23 +13,18 @@ international community to better understand, from an empirical viewpoint, the
 strengths and weaknesses of technology in use and new technologies, with the
 expectation of furthering the field of software engineering.
 
-
 The workshop focuses on the process, design, and structure of empirical studies
 as well as the results of specific studies. The workshop welcomes both original
 and replicated studies, varying from controlled experiments to field studies,
 from quantitative to qualitative. We solicit the following two types of
-submissions: full research papers (max 6 pages) for oral presentations and
-abstracts (max 700 words) for poster presentations. Please check the website for
+submissions: **full research papers (max 6 pages)** for oral presentations and
+**abstracts (max 700 words)** for poster presentations. Please check the website for
 more information.
 
 Accepted research papers will be published in the conference proceedings with an IEEE catalog number and ISBN number. 
 The proceedings will be submitted to IEEE Xplore for publication.
 
-
 Note that IWESEP 2017 is organized independently from ICST 2017 official workshops.
-
-The workshop welcomes both original and replicated studies, varying from controlled experiments to field studies, from quantitative to qualitative. 
-We solicit the following two types of submissions: **full research papers (max 6 pages)** for oral presentations and **abstracts (max 700 words)** for poster presentations. Please check the website for more information.
 
 
 ## General call
