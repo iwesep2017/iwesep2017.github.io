@@ -26,7 +26,6 @@ The proceedings will be submitted to IEEE Xplore for publication.
 
 Note that IWESEP 2017 is organized independently from ICST 2017 official workshops.
 
-
 ## General call
 
 Topics of interest include, but are not limited to:
