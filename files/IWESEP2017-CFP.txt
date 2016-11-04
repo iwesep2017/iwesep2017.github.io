@@ -1,0 +1,160 @@
+*****************************************************************************
+CALL FOR PAPERS - IWESEP 2017
+
+
+The 8th International Workshop on Empirical Software Engineering
+in Practice
+https://iwesep2017.github.io/
+
+
+March 13, 2017, Tokyo, Japan
+Co-located with ICST 2017
+*****************************************************************************
+
+The objective of the 8th International Workshop on Empirical Software
+Engineering in Practice (IWESEP) is to foster the development of the area by
+providing a forum where researchers and practitioners can report on and discuss
+new research results and applications in the area of empirical software
+engineering. The workshop encourages the exchange of ideas within the
+international community to better understand, from an empirical viewpoint, the
+strengths and weaknesses of technology in use and new technologies, with the
+expectation of furthering the field of software engineering.
+
+
+The workshop focuses on the process, design, and structure of empirical studies
+as well as the results of specific studies. The workshop welcomes both original
+and replicated studies, varying from controlled experiments to field studies,
+from quantitative to qualitative. We solicit the following two types of
+submissions: full research papers (max 6 pages) for oral presentations and
+abstracts (max 700 words) for poster presentations. Please check the website for
+more information.
+
+Accepted research papers will be published in the conference proceedings with an IEEE catalog number and ISBN number. 
+The proceedings will be submitted to IEEE Xplore for publication.
+
+
+Note that IWESEP 2017 is organized independently from ICST 2017 official workshops.
+
+-----------------------------------------------------------------------------
+Topics of interest include, but are not limited to:
+
+- Empirical studies of software process and product
+- Comparison of cost estimation techniques
+- Analysis of the effects of design methods and characteristics
+- Evaluation of the readability of coding styles
+- Development, derivation and/or comparison of organizational models of
+  software development
+- Evaluation of testing methodologies
+- Evaluation of automated patch generation techniques.
+- Reports on the benefits derived from using software development environments
+- Development or comparison of predictive models for software quality (defects, vulnerabilities, and reliability) from real data
+- Infrastructure issues, such as measurement theory, experimental design,
+  qualitative modeling and analysis approaches
+- Experiences with research methods such as grounded theory, protocol studies
+  or families of experiments
+- Industrial experience in process improvement
+- Quality measurement
+- Process modeling and applications in industry
+- Experience management
+
+
+*****************************************************************************
+Submission:
+
+
+All submissions must use IEEE templates and should be submitted through
+EasyChair.
+http://www.easychair.org/conferences/?conf=iwesep2017
+
+
+*****************************************************************************
+Important Dates:
+
+Full research paper
+- Abstract submission: December 7th, 2016
+- Paper submission: December 11th, 2016
+- Notification: January 18th, 2017
+- Camera Ready: January 28th, 2017
+
+Fast abstract
+- Submission: January 31th, 2017 (AOE)
+- Notification: February 5th, 2017 (AOE)
+
+*****************************************************************************
+Organization
+
+
+General Chair:
+- Eunjong Choi (Nara Institute of Science and Technology, Japan)
+
+
+Program Co-Chairs:
+- Masao Ohira (Wakayama University, Japan)
+- Jaechang Nam (University of Waterloo, Canada)
+
+
+Publication Chair:
+- Sousuke Amasaki (Okayama University, Japan)
+
+
+Local Arrangement Chair:
+- Hideshi Sakaguchi (Nara Institute of Science and Technology, Japan)
+- Kiyoshi Honda (Waseda University, Japan)
+- Makihara Erina (Nara Institute of Science and Technology, Japan)
+
+Finance Chair:
+- Akinori Ihara (Nara Institute of Science and Technology, Japan)
+- Norihito Kitagawa (Nara Institute of Science and Technology, Japan)
+
+
+Social Networking Chair
+- Kazuhiro Yamashita (Kyushu University, Japan)
+
+
+Web Co-Chairs:
+- Chakkrit Tantithamthavorn (Nara Institute of Science and Technology, Japan)
+- Natthawute Sae-Lim (Tokyo Institute of Technology, Japan)
+
+
+Student Staff Chair:
+- Yuhao Wu (Osaka University, Japan)
+
+
+Steering Committees:
+- Akinori Ihara (Nara Institute of Science and Technology, Japan)
+- Yasutaka Kamei (Kyushu University, Japan)
+- Shinsuke Matsumoto (Kobe University, Japan)
+- Masateru Tsunoda (Kinki University, Japan)
+- Raula Gaikovina Kula (Osaka University, Japan)
+- Hideaki Hata (Nara Institute of Science and Technology, Japan)
+
+
+Advisory Committees:
+- Katsuro Inoue (Osaka University, Japan)
+- Shinji Kusumoto (Osaka University, Japan)
+- Kenichi Matsumoto (Nara Institute of Science and Technology, Japan)
+
+
+Program Committees:
+- Aiko Yamashita (Oslo and Akershus University, Norway)
+- Akinori Ihara (Nara Institute of Science and Technology, Japan)
+- Andrea Mocci (University of Lugano, Switzerland)
+- Bogdan Dit (Boise State University, USA)
+- Bram Adams (MCIS, Ecole Polytechnique de Montreal, Canada)
+- Cor-Paul Bezemer (Queen’s University, Canada)
+- Daniel German (University of Victoria, Canada)
+- David Lo (Singapore Management University, Singapore)
+- Foutse Khomh (Ecole Polytechnique de Montreal, Canada)
+- Olga Baysal (Carleton University, Canada)
+- Osamu Mizuno (Kyoto Institute of Technology, Japan)
+- Patanamon Thongtanunam (Nara Institute of Science and Technology, Japan)
+- Shane McIntosh (McGill University, Canada)
+- Shin Hong (Handong University, South Korea)
+- Shinpei Hayashi (Tokyo Institute of Technology, Japan)
+- Steffen Herbold (University of Göttingen, Germany)
+- Thomas Zimmermann (Microsoft Research, USA)
+- Weiyi (Ian) Shang (Concordia University, Canada)
+- Yasutaka Kamei (Kyushu University, Japan)
+- Yepang Liu (Hong Kong University of Science and Technology, Hong Kong)
+- Yoshiki Higo (Osaka University, Japan)
+- Zhen Ming Jiang (York University, Canada)
