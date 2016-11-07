@@ -61,7 +61,6 @@ Topics of interest include, but are not limited to:
 *****************************************************************************
 Submission:
 
-
 All submissions must use IEEE templates and should be submitted through
 EasyChair.
 http://www.easychair.org/conferences/?conf=iwesep2017
@@ -71,10 +70,10 @@ http://www.easychair.org/conferences/?conf=iwesep2017
 Important Dates:
 
 Full research paper
-- Abstract submission: December 7th, 2016
-- Paper submission: December 11th, 2016
-- Notification: January 18th, 2017
-- Camera Ready: January 28th, 2017
+- Abstract submission: December 7th, 2016 (AOE)
+- Paper submission: December 11th, 2016 (AOE)
+- Notification: January 18th, 2017 (AOE)
+- Camera Ready: January 28th, 2017 (AOE)
 
 Fast abstract
 - Submission: January 31th, 2017 (AOE)
@@ -97,6 +96,11 @@ Publication Chair:
 - Sousuke Amasaki (Okayama University, Japan)
 
 
+Registration Co-Chairs
+- Patanamon Thongtanunam (Nara Institute of Science and Technology, Japan)
+- Xin Yang (Osaka University, Japan)
+
+
 Local Arrangement Chair:
 - Hideshi Sakaguchi (Nara Institute of Science and Technology, Japan)
 - Kiyoshi Honda (Waseda University, Japan)
@@ -107,17 +111,24 @@ Finance Chair:
 - Norihito Kitagawa (Nara Institute of Science and Technology, Japan)
 
 
-Social Networking Chair
-- Kazuhiro Yamashita (Kyushu University, Japan)
-
-
 Web Co-Chairs:
 - Chakkrit Tantithamthavorn (Nara Institute of Science and Technology, Japan)
 - Natthawute Sae-Lim (Tokyo Institute of Technology, Japan)
 
 
+Social Networking Chair
+- Kazuhiro Yamashita (Kyushu University, Japan)
+
+
 Student Staff Chair:
 - Yuhao Wu (Osaka University, Japan)
+
+
+Publicity Co-Chairs
+- Daniel Alencar da Costa (Federal University of Rio Grande do Norte, Brazil)
+- Eun-Hye Choi (National Institute of Advanced Industrial Science and Technology, Japan)
+- Andrea Mocci (University of Lugano, Switzerland)
+- Shinpei Hayashi (Tokyo Institute of Technology, Japan)
 
 
 Steering Committees:
