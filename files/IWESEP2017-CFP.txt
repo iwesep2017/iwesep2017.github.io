@@ -134,7 +134,7 @@ Publicity Co-Chairs
 Steering Committees:
 - Akinori Ihara (Nara Institute of Science and Technology, Japan)
 - Yasutaka Kamei (Kyushu University, Japan)
-- Shinsuke Matsumoto (Kobe University, Japan)
+- Shinsuke Matsumoto (Osaka University, Japan)
 - Masateru Tsunoda (Kinki University, Japan)
 - Raula Gaikovina Kula (Osaka University, Japan)
 - Hideaki Hata (Nara Institute of Science and Technology, Japan)
