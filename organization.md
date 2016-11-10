@@ -23,7 +23,7 @@ permalink: /organization/
 
 [Patanamon Thongtanunam](http://patanamon.com) (Nara Institute of Science and Technology, Japan)
 
-[Xin Yang](http://www.nemocap.org) (Nara Institute of Science and Technology, Japan)
+[Xin Yang](http://www.nemocap.org) (Osaka University, Japan)
 
 ## Local Arrangement Co-Chairs
 
@@ -87,7 +87,7 @@ permalink: /organization/
 
 ## Program Committees
 
-[Aiko Yamashita](https://www.hioa.no/eng/employee/aikyam) (Oslo and Akershus University, Norway)
+[Aiko Yamashita](https://www.hioa.no/eng/employee/aikyam) (CWI, Netherlands & Oslo and Akershus University College, Norway)
 
 [Akinori Ihara](http://akinori-ihara.jpn.org) (Nara Institute of Science and Technology, Japan)
 

@@ -147,7 +147,7 @@ Advisory Committees:
 
 
 Program Committees:
-- Aiko Yamashita (Oslo and Akershus University, Norway)
+- Aiko Yamashita (CWI, Netherlands & Oslo and Akershus University College, Norway)
 - Akinori Ihara (Nara Institute of Science and Technology, Japan)
 - Andrea Mocci (University of Lugano, Switzerland)
 - Bogdan Dit (Boise State University, USA)
