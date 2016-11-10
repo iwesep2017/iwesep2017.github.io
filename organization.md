@@ -59,7 +59,7 @@ permalink: /organization/
 
 [Raula Gaikovina Kula](http://sel.ist.osaka-u.ac.jp/people/raula-k) (Osaka University, Japan)
 
-[Shinsuke Matsumoto](http://www27.cs.kobe-u.ac.jp/~shinsuke-m/index_en.html) (Osaka University, Japan)
+[Shinsuke Matsumoto](http://www27.cs.kobe-u.ac.jp/~shinsuke-m/index_en.html) (Kobe University, Japan)
 
 [Yasutaka Kamei](http://posl.ait.kyushu-u.ac.jp/~kamei) (Kyushu University, Japan)
 
