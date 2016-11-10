@@ -14,7 +14,14 @@ The workshop focuses on the processes, design and structure of empirical studies
 
 # Sponsors
 
-TBA
+[![IEEE Computer Society](images/logo_ieee.jpg){:.sponsor-logo}](https://www.computer.org/)
+<br/>
+
+[![Association of Software Test Engineering](images/logo_aster.jpg){:.sponsor-logo}<center>Association of Software Test Engineering</center>](http://aster.or.jp/)
+<br/>
+
+[![Global Software Engineering Laboratory, Waseda University](images/logo_waseda.png){:.sponsor-logo-2}<center>Global Software Engineering Laboratory,<br/>Waseda University</center>](https://www.waseda.jp/inst/gcs/en/labo/globalsoftware/)
+
 
 <!-- <div class="posts">
   {% for post in site.posts %}
