@@ -14,7 +14,7 @@ The workshop focuses on the processes, design and structure of empirical studies
 
 # Sponsors
 
-[![IEEE Computer Society](images/logo_ieee.jpg){:.sponsor-logo}](https://www.computer.org/)
+[![IEEE Computer Society](images/logo_ieee.jpg){:.sponsor-logo}<center>IEEE Computer Society</center>](https://www.computer.org/)
 <br/>
 
 [![Association of Software Test Engineering](images/logo_aster.jpg){:.sponsor-logo-2}<center>Association of Software Test Engineering</center>](http://aster.or.jp/)
