@@ -22,6 +22,10 @@ The workshop focuses on the processes, design and structure of empirical studies
 
 [![Global Software Engineering Laboratory, Waseda University](images/logo_waseda.png){:.sponsor-logo-3}<center>Global Software Engineering Laboratory,<br/>Waseda University</center>](https://www.waseda.jp/inst/gcs/en/labo/globalsoftware/)
 
+<br/>
+
+[![Interdisciplinary Global Networks for Accelerating Theory and Practice in Software Ecosystem](images/logo_abc26.png){:.sponsor-logo-2}<center>Interdisciplinary Global Networks for Accelerating Theory<br/>and Practice in Software Ecosystem</center>](http://abc26-yr.jpn.org/)
+
 
 <!-- <div class="posts">
   {% for post in site.posts %}
