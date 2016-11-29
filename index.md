@@ -4,9 +4,9 @@ layout: default
 
 # Welcome to the official website of IWESEP 2017
 
-## The 8th International Workshop on Empirical Software Engineering in Practice (IWESEP)
+## The 8th IEEE International Workshop on Empirical Software Engineering in Practice (IWESEP)
 
-The objective of the **8th International Workshop on Empirical Software Engineering in Practice (IWESEP)** is to foster the development of the area by providing a forum where researchers and practitioners can report on and discuss new research results and applications in the area of empirical software engineering. The workshop encourages the exchange of ideas within the international community so as to be able to understand, from an empirical viewpoint, the strengths and weaknesses of technology in use and new technologies, with the expectation of furthering the more generic field of software engineering.
+The objective of the **8th IEEE International Workshop on Empirical Software Engineering in Practice (IWESEP)** is to foster the development of the area by providing a forum where researchers and practitioners can report on and discuss new research results and applications in the area of empirical software engineering. The workshop encourages the exchange of ideas within the international community so as to be able to understand, from an empirical viewpoint, the strengths and weaknesses of technology in use and new technologies, with the expectation of furthering the more generic field of software engineering.
 
 The workshop focuses on the processes, design and structure of empirical studies as well as the results of specific studies. These studies may be on original or replicated studies, varying from controlled experiments to field studies, from quantitative to qualitative.
 
@@ -14,7 +14,10 @@ The workshop focuses on the processes, design and structure of empirical studies
 
 # Sponsors
 
-[![IEEE Computer Society](images/logo_ieee.jpg){:.sponsor-logo}<center>IEEE Computer Society</center>](https://www.computer.org/)
+[![IEEE](images/logo_ieee.gif){:.sponsor-logo-2}<center>IEEE</center>](https://www.ieee.org/)
+<br/>
+
+[![IEEE Computer Society](images/logo_ieee_com.jpg){:.sponsor-logo}<center>IEEE Computer Society</center>](https://www.computer.org/)
 <br/>
 
 [![Association of Software Test Engineering](images/logo_aster.jpg){:.sponsor-logo-2}<center>Association of Software Test Engineering</center>](http://aster.or.jp/)
