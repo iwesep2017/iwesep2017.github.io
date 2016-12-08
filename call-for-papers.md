@@ -51,13 +51,13 @@ Topics of interest include, but are not limited to:
 # Important Dates
 
 ## Full research paper 
-* Abstract submission: December 7th, 2016 (AOE)
-* Paper submission: December 11th, 2016 (AOE)
+* Abstract submission: December ~~7th~~ 19th, 2016 (AOE) <font color="red">Extended!</font>
+* Paper submission: December ~~11th~~ 22nd, 2016 (AOE) <font color="red">Extended!</font>
 * Notification: January 18th, 2017 (AOE)
 * Camera Ready: January 28th, 2017 (AOE)
 
 ## Fast Abstract
-* Submission: January 31th, 2017 (AOE)
+* Submission: January 31st, 2017 (AOE)
 * Notification: February 5th, 2017 (AOE)
 
 ----
