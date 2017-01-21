@@ -14,6 +14,6 @@ Papers must conform to the IEEE proceedings paper format guidelines. Please see 
 
 ## Submission of fast abstract
 
-All submissions should be submitted through EasyChair. Submissions after Jan. 20nd are assumed to be fast abstracts. The authors should submit only fast abstract text (700 words maximum) and need not upload any PDF files.
+All submissions should be submitted through [EasyChair](http://www.easychair.org/conferences/?conf=iwesep2017). Submissions after Jan. 20nd are assumed to be fast abstracts. The authors should submit only fast abstract text (700 words maximum) and need not upload any PDF files.
 
 ----
