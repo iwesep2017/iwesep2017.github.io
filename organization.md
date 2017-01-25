@@ -39,6 +39,8 @@ permalink: /organization/
 
 [Norihito Kitagawa](http://dblp.dagstuhl.de/pers/hd/k/Kitagawa:Norihito) (Nara Institute of Science and Technology, Japan)
 
+Kyohei Uemura (Nara Institute of Science and Technology, Japan)
+
 ## Web Co-Chairs
 
 [Chakkrit Tantithamthavorn](http://chakkrit.com) (Nara Institute of Science and Technology, Japan)
