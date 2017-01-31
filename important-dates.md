@@ -11,7 +11,7 @@ permalink: /important-dates/
 * Camera Ready: January 28th, 2017 (AOE)
 
 ## Fast Abstract
-* Submission: January 31st, 2017 (AOE)
-* Notification: February 5th, 2017 (AOE)
+* Submission: ~~January 31st~~ February 10th, 2017 (AOE) <font color="red">Extended!</font>
+* Notification: February ~~5th~~ 15th, 2017 (AOE) <font color="red">Extended!</font>
 
 ----
