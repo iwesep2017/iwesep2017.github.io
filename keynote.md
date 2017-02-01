@@ -34,7 +34,7 @@ and discuss several avenues for improvement, including novel mining algorithms,
 methods for aggregating the evidence captured by individual rules, 
 and guidelines for selecting appropriate values for parameters of the mining algorithms.
 
-## Biography
+### Biography
 
 Leon Moonen is a senior research scientist in the Software Engineering department at Simula Research Laboratory, Norway. His research aims at creating better techniques and tools to support the understanding, assessment and evolution of large industrial software systems. This work involves the combination of several fields, such as software analytics, program comprehension, software reverse engineering, software repository mining, machine learning and empirical software engineering. He likes to work in close collaboration with industry to ensure that his research addresses questions of practical value, and to evaluate candidate solutions in real-life circumstances. Current ongoing projects include recommendation systems to support smarter evolution and testing of safety-critical cyber-physical systems, software analytics for continuous software quality and maintainability assessments, methods for creating anti-fragile software systems, and high integrity software engineering.
 
