@@ -12,7 +12,6 @@ permalink: /program/
 .tg .tg-baqh{background-color:#ecf4ff;text-align:center;vertical-align:top}
 .tg .tg-yw4l{vertical-align:top}
 </style>
-
 <table class="tg" style="undefined;table-layout: fixed; width: 730px">
 <colgroup>
 <col style="width: 120px">
@@ -36,12 +35,12 @@ permalink: /program/
   <tr>
     <td class="tg-031e">11:00 - 11:20</td>
     <td class="tg-yw4l"><b>Log-based Anomaly Detection of CPS Using a Statistical Method</b><br>
-    <i>Yoshiyuki Harada, Yoriyuki Yamagata, Osamu Mizuno and Eun-Hye Choi</i><br></td>
+    <i>Yoshiyuki Harada, Yoriyuki Yamagata, Osamu Mizuno and Eun-Hye Choi</i></td>
   </tr>
   <tr>
     <td class="tg-yw4l">11:20 - 11:40</td>
     <td class="tg-yw4l"><b>Defect Analysis and Prediction by Applying the Multistage Software Reliability Growth Model</b><br>
-    <i>Jieming Chi, Kiyoshi Honda, Hironori Washizaki, Yoshiaki Fukazawa, Kazuki Munakata, Sumie Morita, Tadahiro Uehara and Rieko Yamamoto</td>
+    <i>Jieming Chi, Kiyoshi Honda, Hironori Washizaki, Yoshiaki Fukazawa, Kazuki Munakata, Sumie Morita, Tadahiro Uehara and Rieko Yamamoto</i></td>
   </tr>
   <tr>
     <td class="tg-yw4l">11:40 - 12:00</td>
