@@ -23,7 +23,9 @@ permalink: /program/
   </tr>
   <tr>
     <td class="tg-031e">9:30 - 10:30</td>
-    <td class="tg-yw4l">Keynote</td>
+    <td class="tg-yw4l">Keynote (Session Chair: TBA)<br>
+    <a href="{{ site.baseurl }}/keynote"><b>Leveraging Machine Learning to Guide Software Evolution</b></a><br>
+    <i>Dr. Leon Moonen</i></td>
   </tr>
   <tr>
     <td class="tg-yw4l">10:30 - 11:00</td>
@@ -57,7 +59,7 @@ permalink: /program/
   </tr>
   <tr>
     <td class="tg-yw4l">12:30 - 14:00</td>
-    <td class="tg-yw4l">Lunch</td>
+    <td class="tg-yw4l">Poster session & Lunch</td>
   </tr>
   <tr>
     <td class="tg-baqh" colspan="2">Session 2: Guiding Software Development (Session Chair: TBA)</td>
@@ -88,7 +90,7 @@ permalink: /program/
   </tr>
   <tr>
     <td class="tg-yw4l">15:30 - 16:00</td>
-    <td class="tg-yw4l">Coffee Break</td>
+    <td class="tg-yw4l">Break</td>
   </tr>
   <tr>
     <td class="tg-baqh" colspan="2">Session 3: Software Analysis (Session Chair: TBA)</td>
