@@ -4,7 +4,7 @@ title: Registration
 permalink: /registration/
 ---
 
-All participants are kindly requested to fill out the following registration form (Google Form) and submit it to the workshop secretariat by March 5, 2016 (AOE). Note that on-site Registration will be available during IWESEP 2017.
+All participants are kindly requested to fill out the following registration form (Google Form) and submit it to the workshop secretariat by March 5, 2017 (AOE). Note that on-site Registration will be available during IWESEP 2017.
 
 [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfiTbHNWlsE1jT2Z726xg0bh6mqoKGV3beqma1T1WeosP8HVg/viewform)
 
