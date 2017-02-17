@@ -11,8 +11,10 @@ All participants are kindly requested to fill out the following registration for
 Registration fee for IWESEP 2017 is quoted in Japanese Yen (JPY). Each registration includes lunch and coffee break.
 The registration fee will be collected on-site. Only cash payments (no credit cards) can be acceptable.
 
-* Attendance of IWESEP 2017 for students: 3500 JPY  
-* Attendance of IWESEP 2017: 4000 JPY
+* IEEE Student Member: 2500 JPY  
+* Student Non-Member: 3500 JPY
+* IEEE Member: 4000 JPY
+* Non-Member: 5000 JPY
 
 If you have any trouble filling out the form, please contact with the workshop secretariat. The email address of the workshop secretariat is iwesep2017(at)is.naist.jp
 
