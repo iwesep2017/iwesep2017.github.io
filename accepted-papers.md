@@ -4,6 +4,8 @@ title: Accepted Papers
 permalink: /accepted-papers/
 ---
 
+## Full research paper
+
 **Evaluating Automated Program Repair Using Characteristics of Defects**  
 *Haruki Yokoyama, Yoshiki Higo and Shinji Kusumoto*
 
@@ -35,3 +37,44 @@ permalink: /accepted-papers/
 *Habibi Husain Arifin, Jirapun Daengdej, Nguyen Thien Khanh*
 
 ----
+
+## Fast abstract
+
+**Improved metrics with iterative text mining for questionnaire analysis**  
+*Yuki Noyori, Hironori Washizaki, Yasuhiro Watanabe, Kiyoshi Honda, Kentarou Ogawa and Hiroyuki Shibata*
+
+**SOLIT MANTRA: Visualizing Popular Library Combinations based on Wisdom of the Crowd**  
+*Boris Todorov, Raula Gaikovina Kula, Takashi Ishio and Katsuro Inoue* 
+
+**Empirical Study of OSS Regarding the Relationships between Bug Fixing Time and Metrics**  
+*Masaki Hosono, Hironori Washizaki, Yoshiaki Fukazawa, Kiyoshi Honda, Kazuki Munakata, Sumie Morita and Yusuke Nemoto*
+
+**An Evolutionary Study on The Popularity of Libraries in NPM JavaScript Package Ecosystem**  
+*Shi Qiu, Raula Gaikovina Kula and Katsuro Inoue*
+
+**A Structural Analysis Method of OSS Community Evolution Based on Semantic Graph Models**  
+*Seiya Kato, Yota Inagaki and Mikio Aoyama*
+
+**A Study of Fault-Prone Method Prediction with Distortions between Method’s Name and its Implementation**  
+*Sho Suzuki, Hirohisa Aman and Minoru Kawahara*
+
+**Development of a Real-Time 3D Java Profiler**  
+*Katsuya Ogami, Hideaki Hata and Kenichi Matsumoto*
+
+**Monitoring and Visualizing Programming Behaviors by Novices Towards an Automated Programming Exercise**  
+*Erina Makihara, Hiroshi Igaki, Norihiro Yoshida, Kenji Fujiwara and Hajimu Iida*
+
+**Customization Patterns for GQM Metrics-Layer: Optimization by Checklist Based Maintainability Review and Machine Learning**  
+*Naohiko Tsuda, Hironori Washizaki, Yoshiaki Fukazawa, Shunsuke Sugimura, Yuichiro Yasuda and Masanao Futakami*
+
+**How does gamification work for coding and reviewing?**  
+*Kohei Yoshigami, Taishi Hayashi, Masateru Tsunoda and Hidetake Uwano*
+
+**Effect of signalling on recruiting software developers**  
+*Atsuyoshi Iba and Masateru Tsunoda*
+
+**Toward Predicting A Reviewer Not to Ignore Code Review Requests in OSS Development**  
+*Kenichi Ono, Akinori Ihara and Kenichi Matsumoto*
+
+----
+
