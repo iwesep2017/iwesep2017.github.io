@@ -51,7 +51,7 @@ permalink: /program/
   </tr>
   <tr>
     <td class="tg-yw4l">12:00 - 12:10</td>
-    <td class="tg-yw4l">Discussion around posters</td>
+    <td class="tg-yw4l">Discussion</td>
   </tr>
   <tr>
     <td class="tg-yw4l">12:10 - 12:30</td>

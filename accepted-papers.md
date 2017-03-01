@@ -64,7 +64,7 @@ permalink: /accepted-papers/
 **Monitoring and Visualizing Programming Behaviors by Novices Towards an Automated Programming Exercise**  
 *Erina Makihara, Hiroshi Igaki, Norihiro Yoshida, Kenji Fujiwara and Hajimu Iida*
 
-**Customization Patterns for GQM Metrics-Layer: Optimization by Checklist Based Maintainability Review and Machine Learning**  
+**Customization Patterns for GQM Model: Optimization of Maintainability Metrics by Checklist Based Review and Machine Learning**  
 *Naohiko Tsuda, Hironori Washizaki, Yoshiaki Fukazawa, Shunsuke Sugimura, Yuichiro Yasuda and Masanao Futakami*
 
 **How does gamification work for coding and reviewing?**  
