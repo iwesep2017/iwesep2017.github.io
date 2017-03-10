@@ -23,7 +23,7 @@ permalink: /program/
   </tr>
   <tr>
     <td class="tg-031e">9:30 - 10:30</td>
-    <td class="tg-yw4l">Keynote (Session Chair: TBA)<br>
+    <td class="tg-yw4l">Keynote (Session Chair: Eunjong Choi)<br>
     <a href="{{ site.baseurl }}/keynote"><b>Leveraging Machine Learning to Guide Software Evolution</b></a><br>
     <i>Dr. Leon Moonen</i></td>
   </tr>
@@ -32,7 +32,7 @@ permalink: /program/
     <td class="tg-yw4l">Break</td>
   </tr>
   <tr>
-    <td class="tg-baqh" colspan="2">Session 1: Detection Techniques (Session Chair: TBA)</td>
+    <td class="tg-baqh" colspan="2">Session 1: Detection Techniques (Session Chair: Yasutaka Kamei)</td>
   </tr>
   <tr>
     <td class="tg-031e">11:00 - 11:20</td>
@@ -62,7 +62,7 @@ permalink: /program/
     <td class="tg-yw4l">Poster session & Lunch</td>
   </tr>
   <tr>
-    <td class="tg-baqh" colspan="2">Session 2: Guiding Software Development (Session Chair: TBA)</td>
+    <td class="tg-baqh" colspan="2">Session 2: Guiding Software Development (Session Chair: Akinori Ihara)</td>
   </tr>
   <tr>
     <td class="tg-yw4l">14:00 - 14:20</td>
@@ -93,7 +93,7 @@ permalink: /program/
     <td class="tg-yw4l">Break</td>
   </tr>
   <tr>
-    <td class="tg-baqh" colspan="2">Session 3: Software Analysis (Session Chair: TBA)</td>
+    <td class="tg-baqh" colspan="2">Session 3: Software Analysis (Session Chair: Cor-Paul Bezemer)</td>
   </tr>
   <tr>
     <td class="tg-yw4l">16:00 - 16:20</td>
